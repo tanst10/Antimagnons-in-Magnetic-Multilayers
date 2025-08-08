@@ -7,12 +7,16 @@ This repository provides **MATLAB** implementations for calculating and visualis
 ## Implemented Modules
 
 1. **Band-structure solvers**  
-   a. Antiparallel ferromagnetic multilayer (Fig. 2, Fig. S1) 
-   b. Parallel ferromagnetic multilayer (Fig. 3, Fig. S2) 
-   c. Magnetostatic surface spin waves (MSSWs) in a semi-infinite ferromagnetic bulk  (Fig. S3) 
-   d. Antiferromagnetic / ferromagnetic (AFM/FM) hybrid multilayer  (Fig. 6) 
+   a. Antiparallel ferromagnetic multilayer (Fig. 2, Fig. S1)
+   
+   b. Parallel ferromagnetic multilayer (Fig. 3, Fig. S2)
+   
+   c. Magnetostatic surface spin waves (MSSWs) in a semi-infinite ferromagnetic bulk  (Fig. S3)
+   
+   d. Antiferromagnetic / ferromagnetic (AFM/FM) hybrid multilayer  (Fig. 6)
+   
 
-2. **Tunability demo**  
+3. **Tunability demo**  
    • Coherent/dissipative inter-layer coupling and layer-resolved chirality in an antiparallel FM bilayer. (Fig. 4) 
 
 ---
