@@ -33,6 +33,7 @@ This repository provides **MATLAB** implementations for calculating and visualis
 * Includes long-range dipolar coupling **and** intra-layer exchange automatically.  
 * On-the-fly sweeping of effective magnetic field **H** overcomed by each layer.  
 * Generates publication-quality band-structure plots.
+* Include simulation plots of COMSOL exported data.
 
 ---
 
